@@ -36,9 +36,8 @@
 ## 📸 Media Showcase
 
 ### Application Walkthrough Video
-<div align="center">
-  <video src="https://github.com/aminammar1/ai-media-studio-app/raw/main/web/public/screenshots/video.mp4" controls="controls" width="100%"></video>
-</div>
+
+https://github.com/aminammar1/ai-media-studio-app/raw/main/web/public/screenshots/video.mp4
 
 ### Interface Screenshots
 <p align="center">
