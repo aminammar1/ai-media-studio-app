@@ -30,9 +30,6 @@ web/out/
 .DS_Store
 Thumbs.db
 
-# Media output
-*.mp4
-
 # OS
 .DS_Store
 desktop.ini
