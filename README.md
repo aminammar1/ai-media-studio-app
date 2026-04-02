@@ -37,7 +37,7 @@
 
 ### Application Walkthrough Video
 <div align="center">
-  <video src="web/public/screenshots/video.mp4" controls width="80%"></video>
+  <video src="https://github.com/aminammar1/ai-media-studio-app/raw/main/web/public/screenshots/video.mp4" controls="controls" width="100%"></video>
 </div>
 
 ### Interface Screenshots
