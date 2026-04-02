@@ -1,0 +1,42 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/.env
+web/.env.local
+web/out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Media output
+*.mp4
+
+# OS
+.DS_Store
+desktop.ini
+
+# Gemini / Agent
+.gemini/
+.agent/
